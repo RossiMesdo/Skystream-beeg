@@ -1,8 +1,12 @@
 {
   "name": "Beeg Repo",
-  "author": "FAEZ",
-  "version": "1.0.0",
-  "providers": [
-    "providers/beeg.js"
+  "id": "com.rossimesdo.beegrepo",
+  "plugins": [
+    {
+      "name": "Beeg",
+      "id": "beeg",
+      "version": "1.0.0",
+      "script": "providers/beeg.js"
+    }
   ]
 }
