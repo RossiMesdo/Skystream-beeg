@@ -1,0 +1,8 @@
+{
+  "name": "Beeg Repo",
+  "author": "FAEZ",
+  "version": "1.0.0",
+  "providers": [
+    "providers/beeg.js"
+  ]
+}
