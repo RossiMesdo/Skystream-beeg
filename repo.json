@@ -1,0 +1,9 @@
+{
+  "name": "Beeg Repo",
+  "packageName": "com.rossimesdo.beegrepo",
+  "description": "SkyStream plugins repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://rossimesdo.github.io/Skystream-beeg/plugins.json"
+  ]
+}
